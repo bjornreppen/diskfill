@@ -1,4 +1,5 @@
 ﻿# Disk Fill
+[![Build Status](https://travis-ci.org/Mashi/diskfill.svg?branch=master)](https://travis-ci.org/Mashi/diskfill)
 
 Disk Fill is a small utility to distribute a set of files that won't fit into removable media onto multiple devices in a way that minimizes unused slack space.
 
